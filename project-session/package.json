@@ -1,0 +1,29 @@
+{
+  "name": "naufal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "axios": "^1.2.2",
+    "flowbite": "^1.6.0",
+    "flowbite-react": "^0.3.7",
+    "js-cookie": "^3.0.1",
+    "jwt-decode": "^3.1.2",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-lorem-ipsum": "^1.4.10",
+    "tailwindcss": "^3.2.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20"
+  }
+}
